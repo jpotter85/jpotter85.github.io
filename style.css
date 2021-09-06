@@ -1,7 +1,8 @@
- body{
-   background-color: gray;
-   font-family: helvetica;
-  
+
+    
+body{
+  background-color: gray;
+   font-family: helvetica,sans serif,arial
 }
 
 h1{ color:white;
@@ -10,13 +11,25 @@ h5{color:white;
 font-size: 13px;
 font-family: helvetica;}
 
-img{width: 35%;}
+img{width: 11.7%;
+    float:right;}
 
 .header {background-color:black;
-        border: 1px solid black;
-          padding-left:10px}
+        border: 1px black;
+          padding-left:5px;
+          text-align:center;}
+.contactinfo{line-height:1%;}
+.title{text-shadow:.5px .5px black;
+        font-size;}
+.college{text-shadow:.5px .5px black;
+        font-size:15px;
+        }
+
+
 
 div{ border:1px solid black;
     padding-left:5px}
-p{color:blue}
-li{color:green}
+p{color:black}
+li{color:black}
+font-weight: 200;
+
