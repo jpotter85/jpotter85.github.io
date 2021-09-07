@@ -1,29 +1,50 @@
 
     
 body{
-  background-color: gray;
-   font-family: helvetica,sans serif,arial
-}
+  
+  background-color:hsl(40,1%,70%);
+  font-family: helvetica,sans serif,arial;}
 
-h1{ color:white;
-font-size: 20px;}
-h5{color:white;
-font-size: 13px;
-font-family: helvetica;}
+h1
+  {color:white;
+  font-size: 20px;}
 
-img{width: 9.5%;
+h5
+  {color:white;
+  font-size: 17px;
+  font-family: helvetica;}
+
+img
+    {width: 12.5%;
     float:right;}
 
-.header {background-color:black;
-        border: 1px black;
-          padding-left:5px;
-          text-align:center;}
-.contactinfo{line-height:1%;}
-.title{text-shadow:.5px .5px black;
-        font-size;}
-.college{text-shadow:.5px .5px black;
-        font-size:15px;
-        }
+.header 
+  {background-color:black;
+   border: 1px black;
+   padding-left:5px;
+   text-align:center;}
+
+.contactinfo
+  {background-image:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/754c5436-8761-437a-b826-c36e8cc6edd6/d4xmmg4-883c5c3d-2e64-445f-8dc4-a7c4eef8f41c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1NGM1NDM2LTg3NjEtNDM3YS1iODI2LWMzNmU4Y2M2ZWRkNlwvZDR4bW1nNC04ODNjNWMzZC0yZTY0LTQ0NWYtOGRjNC1hN2M0ZWVmOGY0MWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-CeLiQyL44pQWZJOfGmwAT3eMk7QU-HgvTSeKI5JXP8);
+   line-height:1%;}
+
+.link {color:yellow;}
+
+.highlights
+  {background-color:gray;}
+
+.experience
+  {background-color:gray;}
+
+.education
+  {background-color:gray;}
+
+.title
+  {text-shadow:.5px .5px black;}
+
+.college
+  {text-shadow:.5px .5px black;
+   font-size:15px;}
 
 
 
@@ -33,3 +54,5 @@ p{color:black}
 li{color:black}
 font-weight: 200;
 
+
+    
